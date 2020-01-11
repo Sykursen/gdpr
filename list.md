@@ -9,8 +9,8 @@
 
 
 ### Press
-- [Frandroid](https://www.frandroid.com/)
-- [Numérama](https://www.numerama.com/)
+- [Frandroid](https://www.frandroid.com/) 11/01/2020 - 17h44
+- [Numérama](https://www.numerama.com/) 11/01/2020 - 17h44
 
 ### Others
 - [EfinityTech](https://www.efinitytech.com/) 02/01/2020 - 16h55
