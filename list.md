@@ -6,3 +6,5 @@
 - [Aliexpress](https://www.aliexpress.com/) 11/01/2020 - 16h43
 - [GearBest](https://www.gearbest.com/) 11/01/2020 - 16h44
 - [Fnac](https://www.fnac.com/) 11/01/2020 - 16h49
+- [Darty](https://www.darty.com/) 11/01/2020 - 16h51
+- [Xiaomi](https://mi.com/) 11/01/2020 - 17h20
