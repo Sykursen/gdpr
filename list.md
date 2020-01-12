@@ -9,10 +9,13 @@
 
 ### French Government
 - [Améli](https://www.ameli.fr/) 12/01/2020 - 13h06
+- [Service-Public](https://www.service-public.fr/) 12/01/2020 - 13h18
 
 ### Press
 - [Frandroid](https://www.frandroid.com/) 11/01/2020 - 17h44
 - [Numérama](https://www.numerama.com/) 11/01/2020 - 17h44
+- [BienPublic](https://www.bienpublic.com/) 12/01/2020 - 13h20
+- [LeFigaro](https://www.lefigaro.fr/) 12/01/2020 - 13h20
 
 ### Others
 - [EfinityTech](https://www.efinitytech.com/) 02/01/2020 - 16h55
