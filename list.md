@@ -22,3 +22,4 @@
 - [EfinityTech](https://www.efinitytech.com/) 02/01/2020 - 16h55
 - [OmgServ](https://www.omgserv.com/fr/) 11/01/2020 - 16h42
 - [Xiaomi](https://mi.com/) 11/01/2020 - 17h20
+- [Groupe-Aquitem](https://www.groupe-aquitem.fr/) 12/01/2020 - 21h56
