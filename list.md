@@ -23,3 +23,4 @@
 - [OmgServ](https://www.omgserv.com/fr/) 11/01/2020 - 16h42
 - [Xiaomi](https://mi.com/) 11/01/2020 - 17h20
 - [Groupe-Aquitem](https://www.groupe-aquitem.fr/) 12/01/2020 - 21h56
+- [fs0c131y](https://fs0c131y.com/) 13/01/2020 - 09h20
