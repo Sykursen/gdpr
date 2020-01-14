@@ -18,6 +18,10 @@
 - [LeFigaro](https://www.lefigaro.fr/) 12/01/2020 - 13h20
 - [FranceSoir](http://www.francesoir.fr) 12/01/2020 -13h27
 
+### University
+- [IUT-Dijon](http://iutdijon.u-bourgogne.fr/www) 14/01/2020 - 11h16
+- [Université de bourgogne](https://www.u-bourgogne.fr/) 14/01/2020 - 11h17
+
 ### Others
 - [EfinityTech](https://www.efinitytech.com/) 02/01/2020 - 16h55
 - [OmgServ](https://www.omgserv.com/fr/) 11/01/2020 - 16h42
