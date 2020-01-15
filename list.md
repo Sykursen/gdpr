@@ -28,3 +28,4 @@
 - [Xiaomi](https://mi.com/) 11/01/2020 - 17h20
 - [Groupe-Aquitem](https://www.groupe-aquitem.fr/) 12/01/2020 - 21h56
 - [fs0c131y](https://fs0c131y.com/) 13/01/2020 - 09h20
+- [Sony](https://www.sony.fr/) 14/01/2020 - 20h01
