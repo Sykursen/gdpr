@@ -16,7 +16,8 @@
 - [Numérama](https://www.numerama.com/) 11/01/2020 - 17h44
 - [BienPublic](https://www.bienpublic.com/) 12/01/2020 - 13h20
 - [LeFigaro](https://www.lefigaro.fr/) 12/01/2020 - 13h20
-- [FranceSoir](http://www.francesoir.fr) 12/01/2020 -13h27
+- [FranceSoir](http://www.francesoir.fr) 12/01/2020 - 13h27
+- [LesNumériques](https://www.lesnumeriques.com/) 29/01/2020 - 09h28
 
 ### University
 - [IUT-Dijon](http://iutdijon.u-bourgogne.fr/www) 14/01/2020 - 11h16
